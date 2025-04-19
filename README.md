@@ -1,0 +1,4 @@
+jdk-1_5_0-doc.zip
+
+sha256sum: 48b98ef0746278da2c6a32649608ec06729529fc4c9ea5d8584aa2b1acf0634e
+
